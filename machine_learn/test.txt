@@ -1,0 +1,2 @@
+Adding new test role
+ Appending new line to test file
